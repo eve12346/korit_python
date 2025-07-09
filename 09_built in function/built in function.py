@@ -145,7 +145,5 @@ for i, value in enumerate(data):
 
 #인덱스가 짝수인 요소만 출력(인덱스: 요소) 숙제
 for i, value in enumerate(data):
-    if i % 2 == 1:
-        continue
-    print(f"{i}:{value}")
-
+    if i % 2 == 0:
+        print(f"{i}:{value}")
