@@ -71,7 +71,7 @@ import math
 #날짜와 시간을 다루는 기능을 제공합니다. 현재 시각, 특정 날짜 계산
 #날짜 형식 지정 등에 사용됩니다.
 
-from  datetime import datetime, timedelta
+# from  datetime import datetime, timedelta
 
 #현재 날짜 및 시간
 # now =  datetime.now() #현재 시스템의 날짜와 시간을 now 변수에 저장
