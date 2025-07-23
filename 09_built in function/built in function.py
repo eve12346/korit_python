@@ -1,7 +1,6 @@
 #내장함수
 #파이썬에서 기본적을 ㅗ지원하는 함수(Built - in function)
-from email.charset import add_alias
-from tkinter.font import names
+from tkinter01.font import names
 
 #abs()
 #숫자의 절댓값을 리턴하는 함수
